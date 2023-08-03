@@ -1,6 +1,6 @@
-package io.yonas;
+package io.jonas;
 
-import io.yonas.util.QuestionImpl;
+import io.jonas.util.QuestionImpl;
 
 public class Main {
     public static void main(String[] args) {
