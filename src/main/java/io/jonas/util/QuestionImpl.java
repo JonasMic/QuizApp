@@ -1,6 +1,6 @@
-package io.yonas.util;
+package io.jonas.util;
 
-import io.yonas.model.Question;
+import io.jonas.model.Question;
 
 import java.util.Scanner;
 import java.util.Timer;

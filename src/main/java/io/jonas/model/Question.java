@@ -1,4 +1,4 @@
-package io.yonas.model;
+package io.jonas.model;
 
 public class Question {
     private int id;
