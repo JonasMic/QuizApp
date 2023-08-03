@@ -10,7 +10,7 @@ public class QuestionImpl {
     private Question[] questions = new Question[5];
     private String selection[] = new String[5];
     // let assign 30 seconds for one question
-    private final int TIME_FOR_EACH_QUESTION = 2;
+    private final int TIME_FOR_EACH_QUESTION = 30;
     private final int DURATION_SECONDS = questions.length * TIME_FOR_EACH_QUESTION;
     private int timeLeft = DURATION_SECONDS;
     private Timer timer;
