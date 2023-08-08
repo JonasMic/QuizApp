@@ -2,7 +2,7 @@ package io.jonas;
 
 import io.jonas.util.QuestionImpl;
 
-public class Main {
+public class QuiyApp {
     public static void main(String[] args) {
 
         QuestionImpl service = new QuestionImpl();
